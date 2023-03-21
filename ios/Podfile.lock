@@ -1,0 +1,29 @@
+PODS:
+  - dyte_client (0.0.4):
+    - DyteSdk (~> 1.20)
+    - Flutter
+  - DyteSdk (1.27)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - dyte_client (from `.symlinks/plugins/dyte_client/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - DyteSdk
+
+EXTERNAL SOURCES:
+  dyte_client:
+    :path: ".symlinks/plugins/dyte_client/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dyte_client: 57e194a318747eb78243004dc9166489734ed54b
+  DyteSdk: 4a68dafc3a8302f4f9c96b7a91c91c44a7c2001b
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: eb2abf2474894654016cbd802b500e38706ec915
+
+COCOAPODS: 1.11.2
